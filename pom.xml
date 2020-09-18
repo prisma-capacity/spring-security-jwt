@@ -81,7 +81,7 @@
         <!-- test -->
         <junit.version>4.12</junit.version>
         <assertj-core.version>3.12.2</assertj-core.version>
-        <mockito-core.version>2.27.0</mockito-core.version>
+        <mockito-core.version>3.5.11</mockito-core.version>
         <logback-classic.version>1.2.3</logback-classic.version>
         <!-- plugin -->
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
