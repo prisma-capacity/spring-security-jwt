@@ -73,7 +73,7 @@
         <javax.servlet-api.version>3.1.0</javax.servlet-api.version>
         <vavr-encodings.version>0.6.0</vavr-encodings.version>
         <default-immutables.version>1.2.5</default-immutables.version>
-        <java-jwt.version>3.8.0</java-jwt.version>
+        <java-jwt.version>3.11.0</java-jwt.version>
         <jwks-rsa.version>0.8.1</jwks-rsa.version>
         <bcprov-jdk15on.version>1.61</bcprov-jdk15on.version>
         <vavr.version>0.10.0</vavr.version>
